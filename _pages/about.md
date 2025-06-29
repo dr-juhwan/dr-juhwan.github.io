@@ -30,12 +30,17 @@ redirect_from:
 -----
 **M.S. & Ph.D. in Computer and Information Security, Sejong University** 
 
-➡️ 석/박사과정 동안 다양한 임베디드 시스템의 취약점을 자동으로 탐지하고 분석하는 연구를 수행  
+➡️ 다양한 임베디드 시스템의 펌웨어 취약점 자동 탐지 및 분석 연구 수행
 <small>
   <em>- Linux, MCU, RTOS 등 다양한 임베디드 시스템 대상 펌웨어 취약점 자동 탐지 연구 수행</em><br>
   <em>- QEMU 기반 펌웨어 리호스팅(Re-hosting) 및 퍼징(Fuzzing), 기호 실행(Symbolic Execution) 등 소프트웨어 테스팅 기술을 융합한 분석 플랫폼 개발</em><br>
   <em>- 다수 펌웨어의 메모리 손상(Memory Corruption) 및 시스템 중단(Hanging) 유발 취약점 발굴 및 보고</em>
 </small>
+
+✍️ Publications
+-----
+{% bibliography --cited_in_order --query @*[selected=true] %}
+
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
