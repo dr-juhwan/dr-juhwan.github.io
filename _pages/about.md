@@ -10,6 +10,13 @@ redirect_from:
 ======
 정보보안 분야의 전문가로서, 시스템의 취약점을 탐지하고 방어하는 데 깊은 전문성을 가지고 있습니다. 임베디드 시스템의 취약점을 자동 분석하는 연구로 석/박사 학위를 취득하였으며, 현재 LIG넥스원에서 국방 무기체계의 사이버보안 아키텍처를 설계하고 있습니다. 학문적 깊이의 연구 역량과 국방 체계 개발 현장에서의 실무 경험을 결합하여, 가장 안전하고 신뢰도 높은 시스템을 구축하는 데 기여하고 있습니다.
 
+### 🎓 Education
+
+<small>
+  <em>Ph.D. in Computer and Information Security, Sejong University, Seoul</em><br>
+  <em>M.S. in Computer and Information Security, Sejong University, Seoul</em>
+</small>
+
 💼 Professional Experience
 -----
 **Senior Researcher (9+ years of experience), LIG Nex1** (2025.01 - 현재)  
