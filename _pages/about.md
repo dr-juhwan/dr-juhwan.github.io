@@ -39,7 +39,15 @@ redirect_from:
 
 ✍️ Publications
 -----
-{% bibliography --cited_in_order -f main_papers %}
+### 📄 [Fuzzing of embedded systems: A survey](https://dl.acm.org/doi/abs/10.1145/3543818)
+
+Published in ***ACM Computing Surveys***, 2022
+
+> 임베디드 시스템 퍼징(Fuzzing) 분야의 전반적인 기술 동향과 연구 과제를 정리한 서베이 논문입니다.
+
+**Recommended citation:** Yun, J., Rustamov, F., Kim, J., & Shin, Y. (2022). Fuzzing of embedded systems: A survey. *ACM Computing Surveys*, *55*(7), 1-33.
+
+[**Download Paper**](/files/yun2022_survey.pdf)
 
  
 
