@@ -9,17 +9,26 @@ redirect_from:
 
 🙋‍♂️ 소개 (About Me)
 ======
-◆ Education
-- Ph.D. in Computer and Information Security from Sejong University, ISEC lab
-- Completed military service as Ph.D. technical research personnel 
+정보보안 분야의 전문가로서, 시스템의 취약점을 탐지하고 방어하는 데 깊은 전문성을 가지고 있습니다. 임베디드 시스템의 취약점을 자동 분석하는 연구로 석/박사 학위를 취득하였으며, 현재 LIG넥스원에서 국방 무기체계의 사이버보안 아키텍처를 설계하고 있습니다. 학문적 깊이의 연구 역량과 국방 체계 개발 현장에서의 실무 경험을 결합하여, 가장 안전하고 신뢰도 높은 시스템을 구축하는 데 기여하고 있습니다.
 
-◆ Experience
-- Researched and developed self-learning vulnerability detection solutions for diverse embedded systems (Linux, MCU, RTOS, etc.)
-- Combined emulation techniques (firmware re-hosting based on QEMU) and software testing technologies (fuzzing, symbolic execution, etc.)
-- Discovered and reported vulnerabilities causing memory corruption and hanging in various firmware
+💼 Professional Experience
+-----
+Senior Researcher (9+ years of experience), LIG Nex1 (2025.01 - 현재)
+Unmanned/Intelligent Robotic Systems R&D Lab
 
-◆ Upcoming Role (Starting January 2025)
-- Cybersecurity role at LIG Nex1's Unmanned/Intelligent Robotic Systems R&D lab
+국방 무기체계의 엔드-투-엔드(End-to-End) 사이버보안 아키텍처 설계 및 구축 담당
+
+🔬 Research Experience
+-----
+Graduate School (M.S. & Ph.D.), Sejong University
+
+석/박사 과정 동안 다양한 임베디드 시스템의 펌웨어 취약점을 자동으로 탐지하고 분석하는 연구를 수행
+➡️ Linux, MCU, RTOS 등 다양한 임베디드 시스템 대상 펌웨어 취약점 자동 탐지 연구 수행
+
+➡️ QEMU 기반 펌웨어 리호스팅(Re-hosting) 및 퍼징(Fuzzing), 기호 실행(Symbolic Execution) 등 소프트웨어 테스팅 기술을 융합한 분석 플랫폼 개발
+
+➡️ 다수 펌웨어의 메모리 손상(Memory Corruption) 및 시스템 중단(Hanging) 유발 취약점 발굴 및 보고
+
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
