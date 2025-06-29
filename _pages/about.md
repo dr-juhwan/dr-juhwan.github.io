@@ -8,14 +8,14 @@ redirect_from:
 ---
 🙋‍♂️ About Me
 ======
-정보보안 분야의 전문가로서, Cyber-Physical 시스템의 취약점을 탐지하고 방어하는 데 깊은 전문성을 가지고 있습니다. 다양한 임베디드 시스템의 취약점을 자동 분석하는 연구로 석/박사 학위를 취득하였으며, 현재 LIG넥스원에서 국방 무기체계의 사이버보안 아키텍처를 설계하고 있습니다. 학문적 깊이의 연구 역량과 국방 체계 개발 현장에서의 실무 경험을 결합하여, 가장 안전하고 신뢰도 높은 시스템을 구축하는 데 기여하고 있습니다.
+정보보안 분야의 전문가로서, Cyber-Physical 시스템의 취약점을 탐지하고 분석하는 데 깊은 전문성을 가지고 있습니다. 다양한 임베디드 시스템의 취약점을 자동 탐지하는 연구로 석/박사 학위를 취득하였으며, 현재 LIG넥스원에서 국방 무기체계의 사이버보안 아키텍처를 설계하고 있습니다. 학문적 깊이의 연구 역량과 국방 체계 개발 현장에서의 실무 경험을 결합하여, 가장 안전하고 신뢰도 높은 시스템을 구축하는 데 기여하고 있습니다.
 
-🎓 Education
+<!-- 🎓 Education
 -----
 <small>
   <em>- Ph.D. in Computer and Information Security, Sejong University, Seoul</em><br>
   <em>- M.S. in Computer and Information Security, Sejong University, Seoul</em>
-</small>
+</small> -->
 
 💼 Professional Experience
 -----
@@ -26,11 +26,11 @@ redirect_from:
 
 ➡️ 국방 무기체계의 엔드-투-엔드(End-to-End) 사이버보안 아키텍처 설계 및 구축 담당
 
-🔬 Research Experience
+🔬 Research Experience (2017.03 - 2024.08)
 -----
-**Graduate School (M.S. & Ph.D.), Sejong University** (2017.03 - 2024.08)
+**M.S. & Ph.D. in Computer and Information Security, Sejong University** 
 
-➡️ 석/박사과정 동안 다양한 임베디드 시스템의 취약점을 자동으로 탐지하고 분석하는 연구를 수행
+➡️ 석/박사과정 동안 다양한 임베디드 시스템의 취약점을 자동으로 탐지하고 분석하는 연구를 수행  
 <small>
   <em>- Linux, MCU, RTOS 등 다양한 임베디드 시스템 대상 펌웨어 취약점 자동 탐지 연구 수행</em><br>
   <em>- QEMU 기반 펌웨어 리호스팅(Re-hosting) 및 퍼징(Fuzzing), 기호 실행(Symbolic Execution) 등 소프트웨어 테스팅 기술을 융합한 분석 플랫폼 개발</em><br>
