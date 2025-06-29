@@ -39,7 +39,7 @@ redirect_from:
 
 ✍️ Publications
 -----
-{% bibliography --cited_in_order --query @*[selected=true] %}
+{% bibliography --cited_in_order -f main_papers %}
 
  
 
