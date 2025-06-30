@@ -39,42 +39,41 @@ redirect_from:
   <em>➡️ Discovered and reported vulnerabilities causing memory corruption and hanging in various firmware</em>
 </small>
 
-✍️ Publications
------
-You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=PS_CX0AAAAAJ).
+### ✍️ Publications
+You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?hl=ko&user=RCyYhkEAAAAJ).
 
 ## 📄 Journal Articles
 
 ### [Fuzzing of Embedded Systems: A Survey](https://dl.acm.org/doi/10.1145/3538644)
-Published in ***ACM Computing Surveys***, 2022 **(IF: 23.8)**
+Published in ***ACM Computing Surveys***, 2022 **(IF: 23.8)**<br>
 **Recommended citation:** Yun, J., Rustamov, F., Kim, J., & Shin, Y. (2022). Fuzzing of embedded systems: A survey. *ACM Computing Surveys, 55*(7), 1-33.
 ---
 ### [HD-FUZZ: Hardware dependency-aware firmware fuzzing via hybrid MMIO modeling](https://www.sciencedirect.com/science/article/abs/pii/S1084804524000122)
-Published in ***Journal of Network and Computer Applications***, 2024 **(IF: 7.7)**
+Published in ***Journal of Network and Computer Applications***, 2024 **(IF: 7.7)**<br>
 **Recommended citation:** Kim, J., Yu, J., Lee, Y., Kim, D. D., & Yun, J. (2024). Hd-fuzz: Hardware dependency-aware firmware fuzzing via hybrid mmio modeling. *Journal of Network and Computer Applications, 224*, 103835.
 ---
 ### [FIRM-COV: High-Coverage Greybox Fuzzing for IoT Firmware via Optimized Process Emulation](https://ieeexplore.ieee.org/abstract/document/9489311)
-Published in ***IEEE Access***, 2021 **(IF: 3.4)**
+Published in ***IEEE Access***, 2021 **(IF: 3.4)**<br>
 **Recommended citation:** Kim, J., Yu, J., Kim, H., Rustamov, F., & Yun, J. (2021). FIRM-COV: High-coverage greybox fuzzing for IoT firmware via optimized process emulation. *IEEE Access, 9*, 101627-101642.
 ---
 ### [Embedded Firmware Rehosting System Through Automatic Peripheral Modeling](https://ieeexplore.ieee.org/abstract/document/10356060)
-Published in ***IEEE Access***, 2023
+Published in ***IEEE Access***, 2023 **(IF: 3.4)**<br>
 **Recommended citation:** Lee, Y., Kim, J., Yu, J., & Yun, J. (2023). Embedded Firmware Rehosting System Through Automatic Peripheral Modeling. *IEEE Access, 11*, 141343-141357.
 ---
 ### [Exploratory Review of Hybrid Fuzzing for Automated Vulnerability Detection](https://ieeexplore.ieee.org/abstract/document/9541397)
-Published in ***IEEE Access***, 2021 **(IF: 3.4)**
+Published in ***IEEE Access***, 2021 **(IF: 3.4)**<br>
 **Recommended citation:** Rustamov, F., Kim, J., Yu, J., & Yun, J. (2021). Exploratory review of hybrid fuzzing for automated vulnerability detection. *IEEE Access, 9*, 131166-131190.
 ---
 ### [BugMiner: Mining the Hard-to-Reach Software Vulnerabilities through the Target-Oriented Hybrid Fuzzer](https://www.mdpi.com/2079-9292/10/1/62)
-Published in ***Electronics***, 2020 **(IF: 2.6)**
+Published in ***Electronics***, 2020 **(IF: 2.6)**<br>
 **Recommended citation:** Rustamov, F., Kim, J., Yu, J., Kim, H., & Yun, J. (2020). BugMiner: Mining the hard-to-reach software vulnerabilities through the target-oriented hybrid fuzzer. *Electronics, 10*(1), 62.
 ---
 ### [AI-Driven Prioritization and Filtering of Windows Artifacts for Enhanced Digital Forensics](https://www.techscience.com/cmc/v81n2/58674)
-Published in ***Computers, Materials & Continua***, 2024 **(IF: 2.0)**
+Published in ***Computers, Materials & Continua***, 2024 **(IF: 2.0)**<br>
 **Recommended citation:** Kim, J., Son, B., Yu, J., & Yun, J. (2024). AI-Driven Prioritization and Filtering of Windows Artifacts for Enhanced Digital Forensics. *Computers, Materials & Continua, 81*(2).
 ---
 ### [Adaptive Emulation Framework for Multi-Architecture IoT Firmware Testing](https://www.techscience.com/cmc/v75n2/52069/html)
-Published in ***Computers, Materials & Continua***, 2023 **(IF: 2.0)**
+Published in ***Computers, Materials & Continua***, 2023 **(IF: 2.0)**<br>
 **Recommended citation:** Yu, J., Kim, J., Lee, Y., & Yun, J., et al. (2023). Adaptive Emulation Framework for Multi-Architecture IoT Firmware Testing. *Computers, Materials & Continua, 75*(2).
 
 <br>
@@ -82,12 +81,13 @@ Published in ***Computers, Materials & Continua***, 2023 **(IF: 2.0)**
 ## 🎤 Conference Papers
 
 ### [Poster: Directed Hybrid Fuzzing on Binary Code](https://dl.acm.org/doi/abs/10.1145/3319535.3363275)
-Published in ***Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security (CCS 2019)***, 2019
+Published in ***2019 ACM SIGSAC Conference on Computer and Communications Security (CCS 2019)***, 2019<br>
 **Recommended citation:** Kim, J., & Yun, J. (2019). Poster: Directed hybrid fuzzing on binary code. In *Proceedings of the 2019 ACM SIGSAC Conference on Computer and Communications Security* (pp. 2637-2639).
 ---
 ### [Poster: Combining Fuzzing with Concolic Execution for IoT Firmware Testing](https://dl.acm.org/doi/abs/10.1145/3576915.3624373)
-Published in ***Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS 2023)***, 2023
+Published in ***2023 ACM SIGSAC Conference on Computer and Communications Security (CCS 2023)***, 2023<br>
 **Recommended citation:** Yu, J., Kim, J., Yun, Y., & Yun, J. (2023). Poster: Combining fuzzing with concolic execution for iot firmware testing. In *Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security* (pp. 3564-3566).
+---
  
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
