@@ -21,10 +21,6 @@ redirect_from:
 -----
 **Senior Researcher (9+ years of experience), LIG Nex1** (2025.01 - 현재)  
 <small>
-  <em>- Unmanned/Intelligent Robotic Systems R&D Lab</em>
-</small>
-
-<small>
   <em>- 국방 무기체계의 엔드-투-엔드(End-to-End) 사이버보안 아키텍처 설계 및 구축 담당</em>
 </small>
 
@@ -36,7 +32,7 @@ redirect_from:
 
 🔬 Research Experience (2017.03 - 2024.08)
 -----
-**M.S. & Ph.D. in Computer and Information Security, Sejong University** 
+**M.S. & Ph.D. in Computer and Information Security, Sejong University**  
 <small>
   <em>- Researched and developed self-learning vulnerability detection solutions for diverse embedded systems (Linux, MCU, RTOS, etc.)</em><br>
   <em>- Combined emulation techniques (firmware re-hosting based on QEMU) and software testing technologies (fuzzing, symbolic execution, etc.)</em><br>
