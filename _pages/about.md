@@ -20,9 +20,7 @@ redirect_from:
 💼 Professional Experience
 -----
 **Senior Researcher (9+ years of experience), LIG Nex1** (2025.01 - 현재)  
-<small>
-  <em>➡️ 국방 무기체계의 엔드-투-엔드(End-to-End) 사이버보안 아키텍처 설계 및 구축 담당</em>
-</small>
+### ➡️ 국방 무기체계의 엔드-투-엔드(End-to-End) 사이버보안 아키텍처 설계 및 구축 담당
 
 **🚀 주요 수행 프로젝트 (Key Project)**
 > **프로젝트명:** 정찰용 무인수상정(USV) 체계개발사업  
@@ -33,11 +31,10 @@ redirect_from:
 🔬 Research Experience (2017.03 - 2024.08)
 -----
 **M.S. & Ph.D. in Computer and Information Security, Sejong University**  
-<small>
-  <em>➡️ Researched and developed self-learning vulnerability detection solutions for diverse embedded systems (Linux, MCU, RTOS, etc.)</em><br>
-  <em>➡️ Combined emulation techniques (firmware re-hosting based on QEMU) and software testing technologies (fuzzing, symbolic execution, etc.)</em><br>
-  <em>➡️ Discovered and reported vulnerabilities causing memory corruption and hanging in various firmware</em>
-</small>
+### ➡️ Researched and developed self-learning vulnerability detection solutions for diverse embedded systems (Linux, MCU, RTOS, etc.)
+### ➡️ Combined emulation techniques (firmware re-hosting based on QEMU) and software testing technologies (fuzzing, symbolic execution, etc.)
+### ➡️ Discovered and reported vulnerabilities causing memory corruption and hanging in various firmware
+
 
 ✍️ Publications
 -----
