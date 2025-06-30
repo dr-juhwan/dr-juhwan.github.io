@@ -43,7 +43,7 @@ redirect_from:
 -----
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?hl=ko&user=RCyYhkEAAAAJ).
 
-## 📄 Journal Articles
+### 📄 Journal Articles
 
 ### [Fuzzing of Embedded Systems: A Survey](https://dl.acm.org/doi/10.1145/3538644)
 Published in ***ACM Computing Surveys***, 2022 **(IF: 23.8)**<br>
@@ -79,7 +79,7 @@ Published in ***Computers, Materials & Continua***, 2023 **(IF: 2.0)**<br>
 
 <br>
 
-## 🎤 Conference Papers
+### 🎤 Conference Papers
 
 ### [Poster: Directed Hybrid Fuzzing on Binary Code](https://dl.acm.org/doi/abs/10.1145/3319535.3363275)
 Published in ***2019 ACM SIGSAC Conference on Computer and Communications Security (CCS 2019)***, 2019<br>
