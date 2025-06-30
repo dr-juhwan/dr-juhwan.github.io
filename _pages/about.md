@@ -39,7 +39,8 @@ redirect_from:
   <em>➡️ Discovered and reported vulnerabilities causing memory corruption and hanging in various firmware</em>
 </small>
 
-### ✍️ Publications
+✍️ Publications
+-----
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?hl=ko&user=RCyYhkEAAAAJ).
 
 ## 📄 Journal Articles
