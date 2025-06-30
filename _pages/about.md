@@ -30,6 +30,13 @@ redirect_from:
 > **개요:** 해군 전진기지와 주요 항만의 감시·정찰 및 현장대응 능력 강화  
 - **관련 기사:** [LIG넥스원, 정찰용 무인수상정 체계개발사업 수행… 399억규모](https://www.yna.co.kr/view/AKR20241219088200003)
 
+<br>
+
+<video width="100%" autoplay loop muted playsinline>
+  <source src="/files/project_rusv.mp4" type="video/mp4">
+  브라우저가 비디오 태그를 지원하지 않습니다.
+</video>
+*<p align="center">정찰용 무인수상정 운용 컨셉 영상</p>*
 
 🔬 Research Experience (2017.03 - 2024.08)
 -----
