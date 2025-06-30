@@ -19,21 +19,30 @@ redirect_from:
 
 💼 Professional Experience
 -----
-**Senior Researcher (9+ years of experience), LIG Nex1** (2025.01 - 현재)  
-### ➡️ 국방 무기체계의 엔드-투-엔드(End-to-End) 사이버보안 아키텍처 설계 및 구축 담당
+**Senior Researcher (9+ years of experience), LIG Nex1** (2025.01 - 현재)<br>
+<small><em>Unmanned/Intelligent Robotic Systems R&D Lab</em></small>
+
+<small>➡️ 국방 무기체계의 엔드-투-엔드(End-to-End) 사이버보안 아키텍처 설계 및 구축 담당</small>
+
+<br>
 
 **🚀 주요 수행 프로젝트 (Key Project)**
-> **프로젝트명:** 정찰용 무인수상정(USV) 체계개발사업  
-> **수행기간:** 2025.01 ~ 2027.12  
+> **프로젝트명:** 정찰용 무인수상정(USV) 체계개발사업  
+> **수행기간:** 2025.01 ~ 2027.12  
 > **개요:** 해군 전진기지와 주요 항만의 감시·정찰 및 현장대응 능력 강화
 - **관련 기사:** [LIG넥스원, 정찰용 무인수상정 체계개발사업 수행… 399억규모](https://www.yna.co.kr/view/AKR20241219088200003)
 
+---
 🔬 Research Experience (2017.03 - 2024.08)
 -----
-**M.S. & Ph.D. in Computer and Information Security, Sejong University**  
-### ➡️ Researched and developed self-learning vulnerability detection solutions for diverse embedded systems (Linux, MCU, RTOS, etc.)
-### ➡️ Combined emulation techniques (firmware re-hosting based on QEMU) and software testing technologies (fuzzing, symbolic execution, etc.)
-### ➡️ Discovered and reported vulnerabilities causing memory corruption and hanging in various firmware
+**M.S. & Ph.D. in Computer and Information Security, Sejong University**
+<small>
+  <ul>
+    <li>➡️ Researched and developed self-learning vulnerability detection solutions for diverse embedded systems (Linux, MCU, RTOS, etc.)</li>
+    <li>➡️ Combined emulation techniques (firmware re-hosting based on QEMU) and software testing technologies (fuzzing, symbolic execution, etc.)</li>
+    <li>➡️ Discovered and reported vulnerabilities causing memory corruption and hanging in various firmware</li>
+  </ul>
+</small>
 
 
 ✍️ Publications
