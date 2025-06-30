@@ -22,7 +22,7 @@ redirect_from:
 **Senior Researcher (9+ years of experience), LIG Nex1** (2025.01 - 현재)<br>
 <small><em>Unmanned/Intelligent Robotic Systems R&D Lab</em></small>
 
-<small>➡️ 국방 무기체계의 엔드-투-엔드(End-to-End) 사이버보안 아키텍처 설계 및 구축 담당</small>
+> ➡️ 국방 무기체계의 엔드-투-엔드(End-to-End) 사이버보안 아키텍처 설계 및 구축 담당
 
 **🚀 주요 수행 프로젝트 (Key Project)**
 > **프로젝트명:** 정찰용무인수상정(RUSV) 체계개발사업  
@@ -30,7 +30,7 @@ redirect_from:
 > **개요:** 해군 전진기지와 주요 항만의 감시·정찰 및 현장대응 능력 강화  
 - **관련 기사:** [LIG넥스원, 정찰용 무인수상정 체계개발사업 수행… 399억규모](https://www.yna.co.kr/view/AKR20241219088200003)
 
----
+
 🔬 Research Experience (2017.03 - 2024.08)
 -----
 **M.S. & Ph.D. in Computer and Information Security, Sejong University**  
