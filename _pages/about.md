@@ -26,13 +26,18 @@ redirect_from:
 
 ➡️ 국방 무기체계의 엔드-투-엔드(End-to-End) 사이버보안 아키텍처 설계 및 구축 담당
 
+#### 🚀 주요 수행 프로젝트 (Key Project)
+> **프로젝트명:** 정찰용 무인수상정(USV) 체계개발사업  
+> **수행기간:** 2025.01 ~ 2027.12  
+> **개요:** 해군 전진기지와 주요 항만의 감시·정찰 및 현장대응 능력 강화
+- **관련 기사:** [LIG넥스원, 정찰용 무인수상정 체계개발사업 수행… 399억규모](https://www.yna.co.kr/view/AKR20241219088200003)
+
 🔬 Research Experience (2017.03 - 2024.08)
 -----
 **M.S. & Ph.D. in Computer and Information Security, Sejong University** 
 
-➡️ 다양한 임베디드 시스템의 펌웨어 취약점 자동 탐지 및 분석 연구 수행
+➡️ Linux, MCU, RTOS 등 다양한 임베디드 시스템 대상 펌웨어 취약점 자동 탐지 연구 수행
 <small>
-  <em>- Linux, MCU, RTOS 등 다양한 임베디드 시스템 대상 펌웨어 취약점 자동 탐지 연구 수행</em><br>
   <em>- QEMU 기반 펌웨어 리호스팅(Re-hosting) 및 퍼징(Fuzzing), 기호 실행(Symbolic Execution) 등 소프트웨어 테스팅 기술을 융합한 분석 플랫폼 개발</em><br>
   <em>- 다수 펌웨어의 메모리 손상(Memory Corruption) 및 시스템 중단(Hanging) 유발 취약점 발굴 및 보고</em>
 </small>
