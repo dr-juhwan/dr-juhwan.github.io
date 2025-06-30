@@ -24,9 +24,11 @@ redirect_from:
   <em>- Unmanned/Intelligent Robotic Systems R&D Lab</em>
 </small>
 
-➡️ 국방 무기체계의 엔드-투-엔드(End-to-End) 사이버보안 아키텍처 설계 및 구축 담당
+<small>
+  <em>- 국방 무기체계의 엔드-투-엔드(End-to-End) 사이버보안 아키텍처 설계 및 구축 담당</em>
+</small>
 
-🚀 주요 수행 프로젝트 (Key Project)
+**🚀 주요 수행 프로젝트 (Key Project)**
 > **프로젝트명:** 정찰용 무인수상정(USV) 체계개발사업  
 > **수행기간:** 2025.01 ~ 2027.12  
 > **개요:** 해군 전진기지와 주요 항만의 감시·정찰 및 현장대응 능력 강화
@@ -35,9 +37,8 @@ redirect_from:
 🔬 Research Experience (2017.03 - 2024.08)
 -----
 **M.S. & Ph.D. in Computer and Information Security, Sejong University** 
-
-➡️ Linux, MCU, RTOS 등 다양한 임베디드 시스템 대상 펌웨어 취약점 자동 탐지 연구 수행  
 <small>
+  <em>- Researched and developed self-learning vulnerability detection solutions for diverse embedded systems (Linux, MCU, RTOS, etc.)</em><br>
   <em>- Combined emulation techniques (firmware re-hosting based on QEMU) and software testing technologies (fuzzing, symbolic execution, etc.)</em><br>
   <em>- Discovered and reported vulnerabilities causing memory corruption and hanging in various firmware</em>
 </small>
