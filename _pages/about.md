@@ -36,7 +36,7 @@ redirect_from:
 -----
 **M.S. & Ph.D. in Computer and Information Security, Sejong University** 
 
-➡️ Linux, MCU, RTOS 등 다양한 임베디드 시스템 대상 펌웨어 취약점 자동 탐지 연구 수행
+➡️ Linux, MCU, RTOS 등 다양한 임베디드 시스템 대상 펌웨어 취약점 자동 탐지 연구 수행  
 <small>
   <em>- Combined emulation techniques (firmware re-hosting based on QEMU) and software testing technologies (fuzzing, symbolic execution, etc.)</em><br>
   <em>- Discovered and reported vulnerabilities causing memory corruption and hanging in various firmware</em>
