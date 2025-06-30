@@ -34,8 +34,8 @@ redirect_from:
 🔬 Research Experience (2017.03 - 2024.08)
 -----
 **M.S. & Ph.D. in Computer and Information Security, Sejong University**  
-> ➡️ Researched and developed self-learning vulnerability detection solutions for diverse embedded systems (Linux, MCU, RTOS, etc.)
-> ➡️ Combined emulation techniques (firmware re-hosting based on QEMU) and software testing technologies (fuzzing, symbolic execution, etc.)
+> ➡️ Researched and developed self-learning vulnerability detection solutions for diverse embedded systems (Linux, MCU, RTOS, etc.)  
+> ➡️ Combined emulation techniques (firmware re-hosting based on QEMU) and software testing technologies (fuzzing, symbolic execution, etc.)  
 > ➡️ Discovered and reported vulnerabilities causing memory corruption and hanging in various firmware
 
 
