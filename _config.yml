@@ -148,10 +148,14 @@ social:
 
 
 # Analytics
+# analytics:
+#   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+#   google:
+#     tracking_id          :
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider              : "google-analytics-4" # "false"에서 "google-analytics-4"로 변경합니다.
   google:
-    tracking_id          :
+    tracking_id         : "G-VHKTLDCTFY" # 여기에 발급받으신 측정 ID를 붙여넣으세요.
 
 
 # Reading Files
